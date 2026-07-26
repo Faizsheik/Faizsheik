@@ -4,30 +4,24 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;Self-Taught+MERN+Stack+Developer" />
 </p>
 
-<p align="center">
-Building web applications • Learning every day • Open to Software Development opportunities
-</p>
-
 ---
 
-## 👩‍💻 About Me
+  ### 👩‍💻 About Me | 🌐 [view my portforlio](https://my-portfolio-uvof.onrender.com/)
 
+- 💼 **1.5+ years of IT experience at Capgemini**
 - 🎓 MCA Graduate from **PSG College of Technology**
-- 💼 1.5+ years of IT experience
-- 🌱 Currently improving my skills in **MERN Stack**, **Java**, and **DSA**
-- 💻 Self-taught MERN Stack Developer passionate about building real-world applications
-- 🚀 Interested in Backend Development, REST APIs, Cloud, and JavaScript
-- 📚 Solving Data Structures & Algorithms problems regularly
+- 🏆 Microsoft Certified: **Azure Fundamentals (AZ-900)**
+- 🚀 Building full-stack web applications using **MERN Stack**
+- 🌱 Currently improving my skills in **Java, DSA, Cloud & DevOps**
+- 💡 Interested in **Backend Development, REST APIs, and scalable web applications**
+
+  ### ⚡ Fun Fact
+
+  > I believe consistency beats perfection—small progress every day adds up.
   
 ---
 
-## 🏆 Certifications
-
-[![Microsoft Certified](https://img.shields.io/badge/Microsoft-AZ--900-blue?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/api/credentials/share/en-in/FaizbanuS-0068/5BF5E126084D9D07?sharingId=13546E4A9BC15A97)
-
----
-
-## 🌐 Connect with Me
+### 🌐 Connect with Me
 
 <p align="left">
 
@@ -51,7 +45,7 @@ Building web applications • Learning every day • Open to Software Developmen
 
 ---
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,js,cs,html,css,react,nodejs,express,dotnet,mongodb,mysql,git,github,vscode,render" />
@@ -59,17 +53,17 @@ Building web applications • Learning every day • Open to Software Developmen
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-| Project | Tech Stack | Highlights | Links |
-|----------|------------|------------|-------|
-| 🛒 **ShopNest - Full Stack E-Commerce Application** | React.js, Node.js, Express.js, MongoDB, JWT, Cloudinary | 🔐 JWT Authentication <br> 🛒 Cart & Order Management <br> 👨‍💼 Admin Dashboard <br> ☁️ Cloud Image Storage <br> 🚀 Vercel + Render Deployment | 🔗 [Repository](https://github.com/Faizsheik/Shopnest) <br> 🌐 [Live Demo](https://shopnest-tau.vercel.app/) |
-| 🍔 **Flavour Fleet - Online Food Ordering System** *(Professional Project)* | ASP.NET, C#, SQL Server, Bootstrap, jQuery, Razorpay | 🍽️ Food Ordering Workflow <br> 👨‍💼 Admin Dashboard <br> 💳 Razorpay Payment Integration <br> 🗄️ SQL Server Database | 🔒 Proprietary (PSG Software Technologies) |
-| 📚 **List-It - Task Management Application** | React.js, Node.js, Express.js, MongoDB, JWT | 🔐 User Authentication <br> 📝 Task CRUD Operations <br> ✅ Task Status Management <br> 🛡️ Protected Routes <br> 🚀 Vercel Deployment | 🔗 [Repository](https://github.com/Faizsheik/ListIt) <br> 🌐 [Live Demo](https://list-it-client.vercel.app/) |
+| Project | Links |
+|----------|----------|
+| 🛒 **ShopNest - Full Stack E-Commerce Application** | 🌐 [Live Demo](https://shopnest-tau.vercel.app/) |
+| 🍔 **Flavour Fleet - Online Food Ordering System** *(Professional Project)* | 🔒 Proprietary (PSG Software Technologies) |
+| 📚 **List-It - Task Management Application** | 🌐 [Live Demo](https://list-it-client.vercel.app/) |
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Faizsheik&show_icons=true&theme=tokyonight)
 
@@ -79,13 +73,13 @@ Building web applications • Learning every day • Open to Software Developmen
 
 ---
 
-## 🔥 LeetCode Stats
+### 🔥 LeetCode Stats
 
 ![](https://leetcard.jacoblin.cool/Faizbanu?theme=dark&font=Nunito&ext=contest)
 
 ---
 
-## 💡 Currently Learning
+### 💡 Currently Learning
 
 - Redux Toolkit
 - Context Api
@@ -93,7 +87,7 @@ Building web applications • Learning every day • Open to Software Developmen
 
 ---
 
-## 🎯 2026 Goals
+### 🎯 2026 Goals
 
 - ✅ Solve 200+ coding problems and problem-solving techniques.
 - ✅ Learn Docker and GitHub Actions for application deployment
@@ -103,12 +97,6 @@ Building web applications • Learning every day • Open to Software Developmen
 
 ---
 
-# ⚡ Fun Fact
-
-> I believe consistency beats perfection—small progress every day adds up.
-
----
-
-## ☕ Thanks for Visiting!
+### ☕ Thanks for visiting!
 
 ⭐ If you like my projects, consider giving them a star!
