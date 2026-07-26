@@ -1,9 +1,9 @@
 # faizsheik008
 <h1 align="center">Hi 👋, I'm Faiz Banu</h1>
 
-<h3 align="center">
-Software Developer | MERN Stack Developer | Java Enthusiast
-</h3>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;Self-Taught+MERN+Stack+Developer" />
+</p>
 
 <p align="center">
 Building web applications • Learning every day • Open to Software Development opportunities
@@ -11,7 +11,7 @@ Building web applications • Learning every day • Open to Software Developmen
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
 - 🎓 MCA Graduate from **PSG College of Technology**
 - 💼 1.5+ years of IT experience
@@ -23,7 +23,13 @@ Building web applications • Learning every day • Open to Software Developmen
 
 ---
 
-## 🌐 Connect with Me
+## 🏆 Certifications
+
+[![Microsoft Certified](https://img.shields.io/badge/Microsoft-AZ--900-blue?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/api/credentials/share/en-in/FaizbanuS-0068/5BF5E126084D9D07?sharingId=13546E4A9BC15A97)
+
+---
+
+# 🌐 Connect with Me
 
 <p align="left">
 
@@ -62,7 +68,7 @@ Building web applications • Learning every day • Open to Software Developmen
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" height="40"/>
 </p>
 
 - HTML5
@@ -75,7 +81,7 @@ Building web applications • Learning every day • Open to Software Developmen
 ### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" height="40"/>
 </p>
 
 - Node.js
@@ -88,7 +94,7 @@ Building web applications • Learning every day • Open to Software Developmen
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40"/>
 </p>
 
 - MongoDB
@@ -100,7 +106,7 @@ Building web applications • Learning every day • Open to Software Developmen
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio" height="40"/>
 </p>
 
 - Git
@@ -112,110 +118,118 @@ Building web applications • Learning every day • Open to Software Developmen
 ### Additional Knowledge
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,azure" />
+  <img src="https://skillicons.dev/icons?i=docker,azure" height="40"/>
 </p>
 
-- Docker (Basics)
 - CI/CD Concepts
-- Cloud Computing Fundamentals
-- Networking Fundamentals
-
-
-
+- Cloud Computing Concepts 
+- Networking Concepts [DNS, DHCP, OSI Model, IP Addressing]
+- Docker (Basics)
+  
 ---
 
 # 🚀 Featured Projects
 
-## 🛒 ShopNest – Full-Stack E-commerce web application
-
-MERN Stack Application
+### 🛒 ShopNest – Full-Stack E-Commerce Web Application
 
 **Tech Stack**
 
 React.js • Node.js • Express.js • MongoDB • JWT • Cloudinary
 
-### Features
-
--  User Authentication using JWT
--  Protected Routes for Users and Admin
--  Browse Products by Category & Subcategory
--  Shopping Cart Management
--  Place Orders & View Order History
--  Admin Dashboard 
--  Cloudinary Image Upload
--  Products Ratings and Reviews
--  Mark Products as Out of Stock
--  RESTful API Integration
--  Deployed frontend in Vercel and backend in Render
-
-🔗 Repository:
+🔗 **Repository:**  
 https://github.com/Faizsheik/Shopnest
 
-### 🚧 Planned Enhancements
+🌐 **Live Demo:**  
+https://shopnest-tau.vercel.app/
 
-- ✅ Email OTP Verification during Login
-- 🔑 Forgot Password & Password Reset via Email
+#### Features
+
+- 🔐 User Authentication using JWT
+- 🛡️ Protected Routes for Users and Admin
+- 🛍️ Browse Products by Category & Subcategory
+- 🛒 Shopping Cart Management
+- 📦 Place Orders & View Order History
+- 👨‍💼 Admin Dashboard
+- ➕ Add, Update, and Delete Products
+- ☁️ Cloudinary Image Upload
+- ⭐ Product Ratings and Reviews
+- 🚫 Mark Products as Out of Stock
+- 🔗 RESTful API Integration
+- 🚀 Frontend deployed on Vercel and Backend deployed on Render
+
+#### 🚧 Planned Enhancements
+
+- ✅ Email OTP Verification
+- 🔑 Forgot Password & Password Reset
 - 🔍 Product Search
 - 🎯 Product Filtering
 - 📄 Pagination
 
 ---
 
-## 🍔 Flavour Fleet – An Online Food Ordering System *(Professional Project)*
+### 🍔 Flavour Fleet – Online Food Ordering System *(Professional Project)*
 
 **Tech Stack**
 
 ASP.NET • C# • SQL Server • Bootstrap • jQuery • Razorpay
 
-### Features
+🔒 **Repository:** Proprietary (Not Public)
 
-- Online Food Ordering
-- Admin Dashboard
-- Razorpay Payment Integration
-- Order Tracking
-- SQL Server Database
+#### Features
 
-🔒 **Note:** This project is proprietary and cannot be shared publicly due to confidentiality.
+- 🍽️ Online Food Ordering
+- 👨‍💼 Admin Dashboard
+- 💳 Razorpay Payment Integration
+- 📦 Order Tracking
+- 🗄️ SQL Server Database
+
+> **Note:** This project was developed during my internship at PSG Software Technologies. The source code is confidential and cannot be shared publicly.
 
 ---
 
-## 📚 List-It - Task Management Application
-
-MERN Stack Application
+### 📚 List-It – Task Management Application
 
 **Tech Stack**
 
 React.js • Node.js • Express.js • MongoDB • JWT
 
-### Features
-
-- User authentication using JWT
-- Secure login and registration
-- Create, update, delete, and manage daily tasks
-- Task status management (Completed/Pending)
-- Protected routes for authenticated users
-- RESTful API integration
-- MongoDB database storage
-- Deployed on Vercel
-
-🔗 Repository:
+🔗 **Repository:**  
 https://github.com/Faizsheik/ListIt
+
+🌐 **Live Demo:**  
+https://list-it-client.vercel.app/
+
+#### Features
+
+- 🔐 User Authentication using JWT
+- 📝 Create, Update, and Delete Tasks
+- ✅ Manage Task Status (Completed/Pending)
+- 🛡️ Protected Routes
+- 🔗 RESTful API Integration
+- 💾 MongoDB Database Storage
+- 🚀 Deployed on Vercel
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=faizsheik008&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=Faizsheik&show_icons=true&theme=github_dark)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=faizsheik008&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=Faizsheik&theme=github_dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=faizsheik008&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizsheik&layout=compact&theme=github_dark)
+
+---
+
+# 🔥 LeetCode Stats
+
+![](https://leetcard.jacoblin.cool/Faizbanu?theme=dark&font=Nunito&ext=contest)
 
 ---
 
 # 📈 GitHub Activity Graph
 
-[![Faiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=faizsheik008&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+[![Faiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Faizsheik&theme=github_dark)](https://github.com/Faizsheik)
 
 ---
 
@@ -229,11 +243,10 @@ https://github.com/Faizsheik/ListIt
 
 # 🎯 2026 Goals
 
-- ✅ Solve 300+ coding problems and problem-solving techniques.
+- ✅ Solve 200+ coding problems and problem-solving techniques.
 - ✅ Learn Docker and GitHub Actions for application deployment
 - ✅ Deploy applications using Microsoft Azure
 - ✅ Explore AI integration in full-stack web applications
-- ✅ Contribute to Open Source
 - ✅ Secure a Software Developer role
 
 ---
