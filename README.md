@@ -42,7 +42,7 @@
 <h4>💻 Tech stack</h4>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,js,cs,react,nodejs,express,dotnet,mongodb,mysql,git,github,vscode,render&perline=15" height="40"/>
+<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,dotnet,mongodb,mysql,git,github,vscode,render&perline=15" height="40"/>
 </p>
 
 <h4>🚀 Projects</h4>
