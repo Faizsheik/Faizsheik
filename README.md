@@ -66,9 +66,7 @@
 
 <h4>🟢 GeeksforGeeks Stats</h4>
 
-<p align="center">
 <img src="https://geeksforgeekscard.up.railway.app/faizshevu98?theme=dark" />
-</p>
 
 <h4>💡 Currently learning</h4>
 
