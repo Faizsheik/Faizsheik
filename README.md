@@ -213,12 +213,6 @@ https://list-it-client.vercel.app/
 
 ---
 
-# 📈 GitHub Activity Graph
-
-[![Faiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Faizsheik&theme=tokyonight)](https://github.com/Faizsheik)
-
----
-
 # 💡 Currently Learning
 
 - Redux Toolkit
