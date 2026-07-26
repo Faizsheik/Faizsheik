@@ -4,16 +4,15 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Software+Developer;MERN+Stack+Developer" />
 </p>
 
-<h4>👩‍💻 About Me | 🌐 <a href="https://my-portfolio-uvof.onrender.com/">view my portfolio</a></h4>
+<h4>👩‍💻 About me | 🌐 <a href="https://my-portfolio-uvof.onrender.com/">view my portfolio</a></h4>
 
-- 💼 Software Developer with **1.5+ years of IT experience at Capgemini**
 - 🎓 MCA Graduate from **PSG College of Technology**
+- 💼 Previously worked at **Capgemini**
 - 🏆 Microsoft Certified: **Azure Fundamentals (AZ-900)**
 - 🚀 Building full-stack web applications using **MERN Stack**
-- 🌱 Currently improving my skills in **Java, DSA, Cloud & DevOps**
-- 💡 Interested in **Backend Development, REST APIs, and scalable web applications**
+- 💡 Interested in **MERN Stack Development, Python Development, and diverse Software Engineering opportunities**
 
-<h4>⚡ Fun Fact</h4>
+<h4>⚡ Fun fact</h4>
 
 > I believe consistency beats perfection — small progress every day adds up.
 
@@ -39,10 +38,10 @@
 
 </p>
 
-<h4>💻 Tech Stack</h4>
+<h4>💻 Tech stack</h4>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,cs,html,css,react,nodejs,express,dotnet,mongodb,mysql,git,github,vscode,render" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,js,cs,react,nodejs,express,dotnet,mongodb,mysql,git,github,vscode,render&perline=8" height="30"/>
 </p>
 
 <h4>🚀 Projects</h4>
@@ -52,12 +51,6 @@
 | 🛒 **ShopNest - Full Stack E-Commerce Application** | 🌐 [Live Demo](https://shopnest-tau.vercel.app/) |
 | 🍔 **Flavour Fleet - Online Food Ordering System** *(Professional Project)* | 🔒 Proprietary (PSG Software Technologies) |
 | 📚 **List-It - Task Management Application** | 🌐 [Live Demo](https://list-it-client.vercel.app/) |
-
-<h4>🏆 Certifications</h4>
-
-<a href="https://learn.microsoft.com/api/credentials/share/en-in/FaizbanuS-0068/5BF5E126084D9D07?sharingId=13546E4A9BC15A97">
-<img src="https://img.shields.io/badge/Microsoft-AZ--900-blue?style=for-the-badge&logo=microsoft"/>
-</a>
 
 <h4>📊 GitHub Stats</h4>
 
@@ -71,7 +64,7 @@
 
 <img src="https://leetcard.jacoblin.cool/Faizbanu?theme=dark&font=Nunito&ext=contest"/>
 
-<h4>💡 Currently Learning</h4>
+<h4>💡 Currently learning</h4>
 
 - Redux Toolkit
 - Context API
