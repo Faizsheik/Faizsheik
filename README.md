@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Software+Developer;MERN+Stack+Developer" />
 </p>
 
-<img align="right" width="300" src="./assets/coding-girl.png">
+<img align="right" width="300" src="github_banner.jpg">
 
 <h4>👩‍💻 About Me | 🌐 <a href="https://my-portfolio-uvof.onrender.com/">view my portfolio</a></h4>
 
