@@ -18,8 +18,7 @@ Building web applications • Learning every day • Open to Software Developmen
 - 💻 Self-taught MERN Stack Developer passionate about building real-world applications
 - 🚀 Interested in Backend Development, REST APIs, Cloud, and JavaScript
 - 📚 Solving Data Structures & Algorithms problems regularly
-- 📫 Reach me at **faizsheik008@gmail.com**
-
+  
 ---
 
 ## 🏆 Certifications
@@ -28,7 +27,7 @@ Building web applications • Learning every day • Open to Software Developmen
 
 ---
 
-# 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p align="left">
 
@@ -54,150 +53,23 @@ Building web applications • Learning every day • Open to Software Developmen
 
 ## 💻 Tech Stack
 
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css" height="40"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,cs,html,css,react,nodejs,express,dotnet,mongodb,mysql,git,github,vscode,render" />
 </p>
 
-**Also familiar with:** ES6+ (Arrow Functions, Destructuring, Spread/Rest, Modules), Async/Await, Promises
+---
+
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Highlights | Links |
+|----------|------------|------------|-------|
+| 🛒 **ShopNest - Full Stack E-Commerce Application** | React.js, Node.js, Express.js, MongoDB, JWT, Cloudinary | 🔐 JWT Authentication <br> 🛒 Cart & Order Management <br> 👨‍💼 Admin Dashboard <br> ☁️ Cloud Image Storage <br> 🚀 Vercel + Render Deployment | 🔗 [Repository](https://github.com/Faizsheik/Shopnest) <br> 🌐 [Live Demo](https://shopnest-tau.vercel.app/) |
+| 🍔 **Flavour Fleet - Online Food Ordering System** *(Professional Project)* | ASP.NET, C#, SQL Server, Bootstrap, jQuery, Razorpay | 🍽️ Food Ordering Workflow <br> 👨‍💼 Admin Dashboard <br> 💳 Razorpay Payment Integration <br> 🗄️ SQL Server Database | 🔒 Proprietary (PSG Software Technologies) |
+| 📚 **List-It - Task Management Application** | React.js, Node.js, Express.js, MongoDB, JWT | 🔐 User Authentication <br> 📝 Task CRUD Operations <br> ✅ Task Status Management <br> 🛡️ Protected Routes <br> 🚀 Vercel Deployment | 🔗 [Repository](https://github.com/Faizsheik/ListIt) <br> 🌐 [Live Demo](https://list-it-client.vercel.app/) |
 
 ---
 
-### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" height="40"/>
-</p>
-
-HTML5 • CSS3 • Bootstrap • JavaScript (ES6+)
-
----
-
-### Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" height="40"/>
-</p>
-
-Node.js • Express.js • ASP.NET Web Forms • REST APIs
-
----
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40"/>
-</p>
-
-MongoDB • SQL
-
----
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio" height="40"/>
-</p>
-
-Git • GitHub • Visual Studio Code
-
----
-
-### Additional Knowledge
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,azure" height="40"/>
-</p>
-
-Docker (Basics) • CI/CD • Azure (AZ-900) • DNS • DHCP • TCP/IP • OSI
-  
----
-
-# 🚀 Featured Projects
-
-### 🛒 ShopNest – Full-Stack E-Commerce Web Application
-
-**Tech Stack**
-
-React.js • Node.js • Express.js • MongoDB • JWT • Cloudinary
-
-🔗 **Repository:**  
-https://github.com/Faizsheik/Shopnest
-
-🌐 **Live Demo:**  
-https://shopnest-tau.vercel.app/
-
-#### Features
-
-- 🔐 User Authentication using JWT
-- 🛡️ Protected Routes for Users and Admin
-- 🛍️ View Products by Category & Subcategory
-- 🛒 Shopping Cart Management
-- 📦 Place Orders & View Order History
-- 👨‍💼 Admin Dashboard
-- ➕ Add, Update, and Delete Products
-- ☁️ Cloudinary Image Upload
-- ⭐ Product Ratings and Reviews
-- 🚫 Mark Products as Out of Stock
-- 🔗 RESTful API Integration
-- 🚀 Frontend deployed on Vercel and Backend deployed on Render
-
-#### 🚧 Planned Enhancements
-
-- ✅ Email OTP Verification
-- 🔑 Forgot Password & Password Reset
-- 🔍 Product Search
-- 🎯 Product Filtering
-- 📄 Pagination
-
----
-
-### 🍔 Flavour Fleet – Online Food Ordering System *(Professional Project)*
-
-**Tech Stack**
-
-ASP.NET • C# • SQL Server • Bootstrap • jQuery • Razorpay
-
-🔒 **Repository:** Proprietary (Not Public)
-
-#### Features
-
-- 🍽️ Online Food Ordering
-- 👨‍💼 Admin Dashboard
-- 💳 Razorpay Payment Integration
-- 📦 Placing an Order
-- 🗄️ SQL Server Database
-
-> **Note:** This project was developed during my internship at PSG Software Technologies. The source code is confidential and cannot be shared publicly.
-
----
-
-### 📚 List-It – Task Management Application
-
-**Tech Stack**
-
-React.js • Node.js • Express.js • MongoDB • JWT
-
-🔗 **Repository:**  
-https://github.com/Faizsheik/ListIt
-
-🌐 **Live Demo:**  
-https://list-it-client.vercel.app/
-
-#### Features
-
-- 🔐 User Authentication using JWT
-- 📝 Create, Update, and Delete Tasks
-- ✅ Manage Task Status (Completed/Pending)
-- 🛡️ Protected Routes
-- 🔗 RESTful API Integration
-- 💾 MongoDB Database Storage
-- 🚀 Deployed on Vercel
-
----
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Faizsheik&show_icons=true&theme=tokyonight)
 
@@ -207,13 +79,13 @@ https://list-it-client.vercel.app/
 
 ---
 
-# 🔥 LeetCode Stats
+## 🔥 LeetCode Stats
 
 ![](https://leetcard.jacoblin.cool/Faizbanu?theme=dark&font=Nunito&ext=contest)
 
 ---
 
-# 💡 Currently Learning
+## 💡 Currently Learning
 
 - Redux Toolkit
 - Context Api
@@ -221,7 +93,7 @@ https://list-it-client.vercel.app/
 
 ---
 
-# 🎯 2026 Goals
+## 🎯 2026 Goals
 
 - ✅ Solve 200+ coding problems and problem-solving techniques.
 - ✅ Learn Docker and GitHub Actions for application deployment
