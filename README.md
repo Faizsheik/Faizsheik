@@ -8,7 +8,7 @@
 
 <h4>👩‍💻 About Me | 🌐 <a href="https://my-portfolio-uvof.onrender.com/">view my portfolio</a></h4>
 
-- 💼 Software Developer with **1.5+ years of IT experience at Capgemini**
+- 💼 Previously worked at **Capgemini**
 - 🎓 MCA Graduate from **PSG College of Technology**
 - 🏆 Microsoft Certified: **Azure Fundamentals (AZ-900)**
 - 🚀 Building full-stack web applications using **MERN Stack**
