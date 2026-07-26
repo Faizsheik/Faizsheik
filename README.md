@@ -64,6 +64,14 @@
 
 <img src="https://leetcard.jacoblin.cool/Faizbanu?theme=dark&font=Nunito&ext=contest"/>
 
+<h4>🟢 GeeksforGeeks Stats</h4>
+
+<p align="center">
+<a href="https://www.geeksforgeeks.org/user/faizshevu98/">
+<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=faizshevu98" />
+</a>
+</p>
+
 <h4>💡 Currently learning</h4>
 
 - Redux Toolkit
