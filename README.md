@@ -1,4 +1,3 @@
-# faizsheik008
 <h1 align="center">Hi 👋, I'm Faiz Banu</h1>
 
 <p align="center">
@@ -11,7 +10,7 @@ Building web applications • Learning every day • Open to Software Developmen
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
 - 🎓 MCA Graduate from **PSG College of Technology**
 - 💼 1.5+ years of IT experience
@@ -58,7 +57,7 @@ Building web applications • Learning every day • Open to Software Developmen
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" height="40"/>
 </p>
 
 **Also familiar with:** ES6+ (Arrow Functions, Destructuring, Spread/Rest, Modules), Async/Await, Promises
@@ -71,10 +70,7 @@ Building web applications • Learning every day • Open to Software Developmen
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap" height="40"/>
 </p>
 
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript (ES6+)
+HTML5 • CSS3 • Bootstrap • JavaScript (ES6+)
 
 ---
 
@@ -84,10 +80,7 @@ Building web applications • Learning every day • Open to Software Developmen
   <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" height="40"/>
 </p>
 
-- Node.js
-- Express.js
-- ASP.NET Web Forms
-- REST APIs
+Node.js • Express.js • ASP.NET Web Forms • REST APIs
 
 ---
 
@@ -97,9 +90,7 @@ Building web applications • Learning every day • Open to Software Developmen
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40"/>
 </p>
 
-- MongoDB
-- SQL
-- SQL Server Management Studio (SSMS)
+MongoDB • SQL
 
 ---
 
@@ -109,9 +100,7 @@ Building web applications • Learning every day • Open to Software Developmen
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio" height="40"/>
 </p>
 
-- Git
-- GitHub
-- Visual Studio Code
+Git • GitHub • Visual Studio Code
 
 ---
 
@@ -121,10 +110,7 @@ Building web applications • Learning every day • Open to Software Developmen
   <img src="https://skillicons.dev/icons?i=docker,azure" height="40"/>
 </p>
 
-- CI/CD Concepts
-- Cloud Computing Concepts 
-- Networking Concepts [DNS, DHCP, OSI Model, IP Addressing]
-- Docker (Basics)
+Docker (Basics) • CI/CD • Azure (AZ-900) • DNS • DHCP • TCP/IP • OSI
   
 ---
 
@@ -146,7 +132,7 @@ https://shopnest-tau.vercel.app/
 
 - 🔐 User Authentication using JWT
 - 🛡️ Protected Routes for Users and Admin
-- 🛍️ Browse Products by Category & Subcategory
+- 🛍️ View Products by Category & Subcategory
 - 🛒 Shopping Cart Management
 - 📦 Place Orders & View Order History
 - 👨‍💼 Admin Dashboard
@@ -180,7 +166,7 @@ ASP.NET • C# • SQL Server • Bootstrap • jQuery • Razorpay
 - 🍽️ Online Food Ordering
 - 👨‍💼 Admin Dashboard
 - 💳 Razorpay Payment Integration
-- 📦 Order Tracking
+- 📦 Placing an Order
 - 🗄️ SQL Server Database
 
 > **Note:** This project was developed during my internship at PSG Software Technologies. The source code is confidential and cannot be shared publicly.
@@ -213,11 +199,11 @@ https://list-it-client.vercel.app/
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Faizsheik&show_icons=true&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api?username=Faizsheik&show_icons=true&theme=tokyonight)
 
-![](https://streak-stats.demolab.com?user=Faizsheik&theme=github_dark)
+![](https://streak-stats.demolab.com?user=Faizsheik&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizsheik&layout=compact&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizsheik&layout=compact&theme=tokyonight)
 
 ---
 
@@ -229,7 +215,7 @@ https://list-it-client.vercel.app/
 
 # 📈 GitHub Activity Graph
 
-[![Faiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Faizsheik&theme=github_dark)](https://github.com/Faizsheik)
+[![Faiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Faizsheik&theme=tokyonight)](https://github.com/Faizsheik)
 
 ---
 
@@ -257,4 +243,6 @@ https://list-it-client.vercel.app/
 
 ---
 
-![](https://komarev.com/ghpvc/?username=faizsheik008&style=for-the-badge)
+## ☕ Thanks for Visiting!
+
+⭐ If you like my projects, consider giving them a star!
