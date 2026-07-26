@@ -4,13 +4,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Software+Developer;MERN+Stack+Developer" />
 </p>
 
-<h4>👩‍💻 About me | 🌐 <a href="https://my-portfolio-uvof.onrender.com/">view my portfolio</a></h4>
+<img align="right" width="300" src="./assets/coding-girl.png">
 
+<h4>👩‍💻 About Me | 🌐 <a href="https://my-portfolio-uvof.onrender.com/">view my portfolio</a></h4>
+
+- 💼 Software Developer with **1.5+ years of IT experience at Capgemini**
 - 🎓 MCA Graduate from **PSG College of Technology**
-- 💼 Previously worked at **Capgemini**
 - 🏆 Microsoft Certified: **Azure Fundamentals (AZ-900)**
 - 🚀 Building full-stack web applications using **MERN Stack**
-- 💡 Interested in **MERN Stack Development, Python Development, and diverse Software Engineering opportunities**
 
 <h4>⚡ Fun fact</h4>
 
