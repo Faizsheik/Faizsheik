@@ -6,7 +6,7 @@
 
 <img align="right" width="300" src="github_banner.jpg">
 
-<h4>👩‍💻 About Me | 🌐 <a href="https://my-portfolio-uvof.onrender.com/">view my portfolio</a></h4>
+
 
 - 💼 Previously worked at **Capgemini**
 - 🎓 MCA Graduate from **PSG College of Technology**
